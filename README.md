@@ -1,5 +1,5 @@
 # steamberry
-change your raspberry pi 2 into a steambox, just type the following commands and follow the instructions
+turn your raspberry pi 2 into a steambox, just type the following commands and follow the instructions
 note: you will need GeForce NVIDIA experience running on the computer that run steam.
 
 ```bash
