@@ -8,6 +8,12 @@ cd steamberry
 ./init.sh
 ```
 
+If you want to use a xbox controller
+
+```bash
+sudo apt-get install xboxdrv
+```
+
 during the pairing phase, GeForce experience will ask you to provide a code on the main computer.
 Once the computer is paired with the raspberry, start playing !
 
@@ -15,6 +21,7 @@ Once the computer is paired with the raspberry, start playing !
 cd limehome
 ./launch.sh
 ```
+Note: the `launch.sh` script start xboxdrv and provide the correct mapping to limelight. Just edit it if you want to use another controller.
 
 # TODO:
 * add wake on lan for the steam host
